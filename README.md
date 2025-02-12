@@ -35,6 +35,6 @@ ___
 ___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorrSantoss" alt="Status" /> </p>
 
-### Obrigado por visitar!!
+### Thank you for visiting me !!
 
 

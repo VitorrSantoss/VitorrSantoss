@@ -22,7 +22,7 @@ I'm <strong>Vitor Santos</strong>I'm Vitor Santos and I'm a Java software develo
 
 ___
 
-## Algumas estatísticas minhas:
+## Some statistics of mine:
 
 <a href="https://github.com/VitorrSantoss">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorrSantoss&show_icons=true&theme=radical" alt="Github status" />

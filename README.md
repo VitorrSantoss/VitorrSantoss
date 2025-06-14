@@ -14,7 +14,9 @@
 <div size='20px'> Hi! My name is Vitor Santos. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<p><img width = "35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 <br>
 

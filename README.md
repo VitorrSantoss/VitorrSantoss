@@ -27,13 +27,13 @@
 
 <h3> 🛠️ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px ></h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" aling = "center" alt ="JAVA" title ="JAVA" width ="30px" style ="padding-right: 10px" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" aling = "center" alt ="JAVA" title ="JAVA" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" aling = "center" alt ="PYTHON" title ="PYTHON" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" aling = "center" alt ="JAVASCRIPT" title ="JAVASCRIPT" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" aling = "center" alt ="HTML" title ="HTML" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" aling = "center" alt ="HTML" title ="HTML" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" aling = "center" alt ="CSS" title ="CSS" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" aling = "center" alt ="BOOTSTRAP" title ="BOOTSTRAP" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" aling = "center" alt ="REACTJS" title ="REACTJS" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" aling = "center" alt ="REACTJS" title ="REACTJS" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" aling = "center" alt ="GIT" title ="GIT" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" aling = "center" alt ="POSTMAN" title ="POSTMAN" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" aling = "center" alt ="VSCODE" title ="VSCODE" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
@@ -41,6 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" aling = "center" alt ="FIGMA" title ="FIGMA" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" aling = "center" alt ="SPRINGBOOT" title ="SPRINGBOOT" width ="30px" style ="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" aling = "center" alt ="SQL" title ="SQL" width ="30px" style ="padding-right: 10px" />&nbsp;&nbsp;&nbsp;
+
           
 <br>
 <br>

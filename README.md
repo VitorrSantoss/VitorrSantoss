@@ -12,7 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorrSantoss" alt="Status" /> </p>
 
-<div size='20px'> Hi! My name is Vitor Santos. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> 
+    I’m a developer focused on backend development, with Java as my main programming language. I have experience building RESTful APIs using Spring Boot, following best practices in architecture and security. Currently, I’m expanding my knowledge into full stack            development, studying JavaScript, HTML, CSS, and modern frontend frameworks like React. I enjoy working on solutions that solve real-world problems, and I’m always looking to learn and grow technically. <br> <br>
+    Thank You for taking the time to view my GitHub Profile
 </div>
 
 <p><img width = "35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>

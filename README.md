@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />www.linkedin.com/in/vitorsantosll</a>
   <a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=39D353" alt="Portfólio" /></a>
   <img src="https://img.shields.io/badge/recife,_br-0D1117?style=for-the-badge&logo=googlemaps&logoColor=D2A8FF" alt="Recife" />
   <img src="https://komarev.com/ghpvc/?username=VitorrSantoss&label=visitas&color=0D1117&style=for-the-badge" alt="Visitas" />

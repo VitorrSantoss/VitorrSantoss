@@ -1,53 +1,86 @@
+<!-- ============ $ ./perfil.sh ============ -->
 <p align="center">
-    <div align="center">
-    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true/>
-</div>
+  <img src="assets/terminal.svg" width="100%" alt="vitor@github:~$ whoami — Vitor Santos Leite de Lima" />
 </p>
 
-<h1> Hello World! < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=39D353" alt="Portfólio" /></a>
+  <img src="https://img.shields.io/badge/recife,_br-0D1117?style=for-the-badge&logo=googlemaps&logoColor=D2A8FF" alt="Recife" />
+  <img src="https://komarev.com/ghpvc/?username=VitorrSantoss&label=visitas&color=0D1117&style=for-the-badge" alt="Visitas" />
 </p>
 
-<br>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorrSantoss" alt="Status" /> </p>
+<!-- ============ 01. sobre_mim() ============ -->
+<img src="assets/h-sobre.svg" width="100%" alt="01. sobre_mim()" />
 
-<div size='20px'> 
-    I’m a developer focused on backend development, with Java as my main programming language. I have experience building RESTful APIs using Spring Boot, following best practices in architecture and security. Currently, I’m expanding my knowledge into full stack            development, studying JavaScript, HTML, CSS, and modern frontend frameworks like React. I enjoy working on solutions that solve real-world problems, and I’m always looking to learn and grow technically. <br> <br>
-    Thank You for taking the time to view my GitHub Profile
+<img src="assets/editor.svg" width="46%" align="right" alt="SobreMim.java" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=39D353&width=420&height=26&lines=%3E+Ol%C3%A1%2C+mundo!+Eu+sou+o+Vitor+%F0%9F%91%8B;%3E+Desenvolvedor+Full+Stack+(foco+no+back-end);%3E+Java+%2B+Spring+Boot+%E2%98%95;%3E+git+commit+-m+%22evoluindo+sempre%22)](https://git.io/typing-svg)
+
+<div align="justify">
+
+Sou desenvolvedor `Full Stack`, atuando tanto no `Front-end` quanto no `Back-end`, e hoje meu dia a dia está principalmente no **back-end**: construindo a lógica, as APIs e os dados que fazem as aplicações funcionarem de verdade, com **Java e Spring Boot**.
+No front e no mobile, trabalho com **React** e **React Native**. Sou estudante de ADS no **Senac PE** e fui aluno destaque na **Residência Tecnológica do Porto Digital**.
+Programo em `Java`, `JavaScript`, `Python` e `C#`, e gosto de encarar sistemas complexos e de escala real!
+Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios na área de tecnologia!
+
 </div>
 
-<p><img width = "35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+```diff
++ Construindo back-ends e APIs com Java e Spring Boot
++ Desenvolvendo front-end e mobile com React e React Native
++ Aberto a oportunidades de estágio e júnior
+- Bugs (estou trabalhando nisso)
+```
 
-<br>
+<br clear="right"/>
+<br/>
 
-<h3> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h3>
-<a href = 'https://www.linkedin.com/in/vitorsantosll/'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;&nbsp;&nbsp;
-<a href = 'https://github.com/VitorrSantoss'> <img width = '30' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vitor.santos.ll/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"alt="_._.adam._" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<!-- ============ 02. tecnologias() ============ -->
+<img src="assets/h-tecnologias.svg" width="100%" alt="02. tecnologias()" />
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,python,cs,html,css,mysql,postgres,git,github,idea,vscode&theme=dark" alt="Tecnologias" />
+</p>
 
-<h3> 🛠️ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px ></h3>
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="SpringBoot" title="SpringBoot" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="ReactJs" title="ReactJs" width="30px" style="padding-right: 10px"/>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VsCode" title="VsCode" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="30px" style="padding-right: 10px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Sql" title="Sql" width="30px" style="padding-right: 10px"/>
-</div>
-          
-<br>
-<br>
+<!-- ============ 03. projetos() ============ -->
+<img src="assets/h-projetos.svg" width="100%" alt="03. projetos()" />
 
-| ![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=VitorrSantoss&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorrSantoss&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorrSantoss&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VitorrSantoss&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<p align="center">
+  <a href="https://github.com/VitorrSantoss/Barber-API"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/repo-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/repo-1.svg" /><img width="49%" alt="Projeto 1" src="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/repo-1-dark.svg" /></picture></a>
+  <a href="https://github.com/VitorrSantoss/BBTS-API"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/repo-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/repo-2.svg" /><img width="49%" alt="Projeto 2" src="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/repo-2-dark.svg" /></picture></a>
+</p>
+
+<br/>
+
+<!-- ============ 04. estatisticas() ============ -->
+<img src="assets/h-estatisticas.svg" width="100%" alt="04. estatisticas()" />
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/stats-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/stats.svg" /><img width="49%" alt="Estatísticas" src="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/stats-dark.svg" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/langs-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/langs.svg" /><img width="49%" alt="Linguagens" src="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/langs-dark.svg" /></picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorrSantoss&locale=pt_BR&hide_border=true&border_radius=12&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Sequência" />
+</p>
+
+<br/>
+
+<!-- ============ 05. contribuicoes() — compilador de contribuições ============ -->
+<img src="assets/h-contribuicoes.svg" width="100%" alt="05. contribuicoes()" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/code-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/code-contribution-graph.svg" />
+  <img width="100%" alt="Contribuições compiladas em binário" src="https://raw.githubusercontent.com/VitorrSantoss/VitorrSantoss/output/code-contribution-graph-dark.svg" />
+</picture>
+
+<!-- ============ exit ============ -->
+<p align="center">
+  <img src="assets/rodape.svg" width="100%" alt="Obrigado pela visita!" />
+</p>
